@@ -15,4 +15,4 @@ You may share or adapt the material as long as you give appropriate credit.
 ## Author
 
 ZEIN ALABDIN SAKER  
-Research Assistant at [BTU]
+Research Assistant at BTU
