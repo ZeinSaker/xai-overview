@@ -1,6 +1,6 @@
 # Overview of Explainable AI (XAI)
 
-This repository contains a slide deck I created as part of my work as a research assistant at [BTU]. It provides a high-level overview of Explainable AI (XAI), covering key concepts, motivations, and popular techniques.
+This repository contains a slide deck I created as part of my work as a research assistant at BTU. It provides a high-level overview of Explainable AI (XAI), covering key concepts, motivations, and popular techniques.
 
 ## File
 
@@ -14,5 +14,5 @@ You may share or adapt the material as long as you give appropriate credit.
 
 ## Author
 
-[ZEIN ALABDIN SAKER]  
+ZEIN ALABDIN SAKER  
 Research Assistant at [BTU]
